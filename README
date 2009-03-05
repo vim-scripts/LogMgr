@@ -1,0 +1,9 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2569
+
+Log Mgr is a very simple script to tail logs while editing files. It does the following:
+
+1. Sources a global variable to create key bindings to log files
+2. A user can use the key bindings to see a buffer of the log
+3. The user can refresh this buffer
+
+More complex versions are planned for the future, until then any suggestions are welcome
